@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node server/servergit add ..js"
+    "start": "node server/server.js"
   },
   "engines": {
     "node": "12.7.0"
